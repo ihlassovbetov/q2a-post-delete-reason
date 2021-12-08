@@ -16,6 +16,7 @@
 	<li>Plugin adds a sub navigation page at users profile page named "Deleted Posts" with its count.</li> 
 	<li>Users can see their "Deleted Posts" there and submit edits if it is in round-1.</li>
 	<li>These workflow does not conflict with original Q2A queueing or deleting processes.</li>
+	<li>In admin setting, there is also a "CheckFix" button. This can be used to fix mismatches of post status at post-deleted and posts table, caused by manual database edits or other plugins edits on post types.</li>
 	<br/>
 	<img src="https://ihlassovbetov.github.io/assets/plugin-ss/post-delete-reason/img-1.png" width="500px" height="auto" />
 	<img src="https://ihlassovbetov.github.io/assets/plugin-ss/post-delete-reason/img-2.png" width="500px" height="auto" />
